@@ -8,7 +8,7 @@
 </head>
 <body>
     <header>
-        <h1>Welcome to [Village Name]</h1>
+        <h1>Welcome to [ MOGULLLURU ]</h1>
         <nav>
             <ul>
                 <li><a href="#about">About</a></li>
